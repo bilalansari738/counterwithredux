@@ -1,0 +1,13 @@
+.container{
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
+.container button{
+    padding: 10px;
+    background-color: antiquewhite;
+}
+.container p{
+    padding: 10px;
+    font-size: 16px;
+}
